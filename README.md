@@ -6,9 +6,13 @@ This is a list of my <b>favourite</b> & <b>used</b> <a href="https://www.sketcha
 Added Scketh Isometric, a plugin that let's you generate isometric view of your sketch files
 <br>https://github.com/sureskumar/sketch-isometric
 
+![Single Isometric example](http://www.sureskumar.com/sketch-isometric/github_imgs/sketch_isometric_sample_08.jpg)
+
 ## Sketch Runner
 A spotlight version for Sketch
 <br>http://sketchrunner.com/
+
+![Sketch Runner Background](https://cdn-images-1.medium.com/max/1600/1*9qRPYEuJQEBtx7-L2DcVQQ.png)
 
 ## Sketch Styles Library
 A power plugin that let's share both Text & Styles from a library source, in just one click
@@ -16,18 +20,27 @@ A power plugin that let's share both Text & Styles from a library source, in jus
 
 ## Launch Pad by Anima
 Powerful plugin by Anima, that let you convert you Sketch file into an html static page, and mostly useful for its stacked folder and constrain pin options
+<br>http://www.animaapp.com/
+
+![Launch Pad](https://i.ytimg.com/vi/1gnxY6eC_78/maxresdefault.jpg)
 
 ## Autolayout by Anima
 Auto-Layout is a plugin for Sketch that enables designers to design fully responsive artboards
 <br>https://github.com/AnimaApp/Auto-Layout.git
 
+![Autolayout](https://cdn-images-1.medium.com/max/1200/1*xiUOc19qVLhvgR5oW1MIRQ.png)
+
 ## Automate
 Make sketch worklflow with many automation
 <br>https://github.com/Ashung/Automate-Sketch.git
 
+![Automate](https://startae.com/assets/images/articles/2017-12-04/1-automate-f3427ce5.jpg)
+
 ## Comma
 Select text layers, layer groups or artboards to change the text
 <br>https://github.com/margusholland/Comma.git
+
+![Comma](https://camo.githubusercontent.com/67da0b3e26fd563f6c9548e5fb759b8a3771dc23/687474703a2f2f756f2e65652f636f6d6d612f636f6d6d612d76312e342e706e67)
 
 ## Copy & Paste Guides
 A plugin to easily copy, paste and remove guides from your Sketch artboard(s)
@@ -37,9 +50,13 @@ A plugin to easily copy, paste and remove guides from your Sketch artboard(s)
 A plugin for generating flow diagrams from Artboards in Sketch
 <br>https://abynim.github.io/UserFlows/
 
+![User Flows](https://assets.hongkiat.com/uploads/sketch-user-flows-plugin/02-user-flows-full-diagram-sketch.jpg)
+
 ## Perfecter
 Make great typography with golden ratio
 <br>https://github.com/Volorf/Perfecter.git
+
+![Perfecter](https://startae.com/assets/images/articles/2017-12-04/5-perfecter-4ac97485.jpg)
 
 ## Sketch Grid Master
 A Sketch plugin that fixes long-standing bugs and adds new functionaity related on work with Grid and Layout <br>https://github.com/exevil/sketch-grid-master.git

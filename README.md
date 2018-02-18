@@ -130,3 +130,8 @@ Screen Design. Supercharged
 Automatically resizes symbol to original size when switching from one spacing to another spacing symbol
 <br>https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git
 
+## Chart
+Chart is a Sketch plugin for creation the most popular charts by real or random data. Chart supports copy-paste from any kind of text editor
+<br>https://github.com/pavelkuligin/chart.git
+
+![Chart](https://raw.githubusercontent.com/pavelkuligin/chart/master/images/chart-2x.png)

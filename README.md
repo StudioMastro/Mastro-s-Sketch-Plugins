@@ -135,3 +135,7 @@ Chart is a Sketch plugin for creation the most popular charts by real or random 
 <br>https://github.com/pavelkuligin/chart.git
 
 ![Chart](https://raw.githubusercontent.com/pavelkuligin/chart/master/images/chart-2x.png)
+
+## Sketch Iconfont
+This plugin helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs
+<br>https://github.com/keremciu/sketch-iconfont.git

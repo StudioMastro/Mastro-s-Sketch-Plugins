@@ -133,7 +133,7 @@ Automatically resizes symbol to original size when switching from one spacing to
 ## Kactus
 Kactus is a tool to bring proper version control (as in git) to designers right from Sketch
 <br>https://github.com/kactus-io/kactus.git
-=======
+
 ## Chart
 Chart is a Sketch plugin for creation the most popular charts by real or random data. Chart supports copy-paste from any kind of text editor
 <br>https://github.com/pavelkuligin/chart.git
@@ -143,4 +143,3 @@ Chart is a Sketch plugin for creation the most popular charts by real or random 
 ## Sketch Iconfont
 This plugin helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs
 <br>https://github.com/keremciu/sketch-iconfont.git
->>>>>>> e8f4484fab7680f9e7ae8c137388f0e9658c9494

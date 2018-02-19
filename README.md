@@ -1,6 +1,6 @@
 # Sketch Plugins
 
-This is a list of my <b>favourite</b> & <b>used</b> <a href="https://www.sketchapp.com">Sketch</a> Plugins
+This is a list of my <b>favourite</b> & <b>mostly used</b> <a href="https://www.sketchapp.com">Sketch</a> Plugins
 
 ## Sketch Isometric
 Added Scketh Isometric, a plugin that let's you generate isometric view of your sketch files
@@ -130,3 +130,6 @@ Screen Design. Supercharged
 Automatically resizes symbol to original size when switching from one spacing to another spacing symbol
 <br>https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git
 
+## Kactus
+Kactus is a tool to bring proper version control (as in git) to designers right from Sketch
+<br>https://github.com/kactus-io/kactus.git

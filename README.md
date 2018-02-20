@@ -143,3 +143,9 @@ Chart is a Sketch plugin for creation the most popular charts by real or random 
 ## Sketch Iconfont
 This plugin helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs
 <br>https://github.com/keremciu/sketch-iconfont.git
+
+## Google Sheet
+Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
+<br>https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git
+
+![Google Sheet Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin/raw/master/images/logo.png)

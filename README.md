@@ -150,8 +150,8 @@ Edit and collaborate on your content in Google Sheets, then sync in back to your
 
 ![Google Sheet Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin/raw/master/images/logo.png)
 
-## Diya Beta
-Beautiful Animations, without leaving Sketch. Diya lets you stay focused by bringing a powerful timeline editor directly to Sketch..
-<br>http://diyahq.com/
+## Override it!
+Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features..
+<br>https://github.com/ahmedmigo/overrideit-sketchplugin
 
-![Diya Sketch Animation](http://diyahq.com/images/FBDiya.png)
+![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png)

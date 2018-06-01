@@ -155,3 +155,7 @@ Overrideit is sketch plugin that allow designers to search in overridelist and o
 <br>https://github.com/ahmedmigo/overrideit-sketchplugin
 
 ![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png)
+
+## Font Buddy!
+Install missing fonts directly from Sketch.
+<br>http://fontbuddy.co/

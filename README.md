@@ -159,3 +159,11 @@ Overrideit is sketch plugin that allow designers to search in overridelist and o
 ## Font Buddy!
 Install missing fonts directly from Sketch.
 <br>http://fontbuddy.co/
+
+## Sketch 2 React!
+Sketch2React is a .sketchplugin, a framework and a React web app that converts Sketch design files into prototype React code. That spits out real HTML. Very super!
+<br>https://sketch2react.io/
+
+## Sketch Plugin Monster!
+A Sketch plugin for managing all plugin shortcuts.
+<br>https://github.com/PeachScript/sketch-plugin-monster#sketch-plugin-monster

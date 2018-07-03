@@ -1,6 +1,6 @@
 # Sketch Plugins
 
-This is a list of my <b>favourite</b> & <b>mostly used</b> <a href="https://www.sketchapp.com">Sketch</a> Plugins
+This is a list of my <b>favourite</b> & <b>mostly used</b> <a href="https://sketchapp.com/extensions/plugins/">Sketch Plugins.</a> & Tools.
 
 ## Google Sheet
 Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.

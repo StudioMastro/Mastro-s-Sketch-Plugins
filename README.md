@@ -68,6 +68,10 @@ A Sketch plugin that fixes long-standing bugs and adds new functionaity related 
 Automatically compresses images exported from Sketch with ImageOptim.
 <br>https://imageoptim.com/sketch
 
+## Keys
+Keys is a full-featured shortcut manager for Sketch. Integrated directly to Preferences window it helps you to customize shortcuts easily.
+<br>https://github.com/exevil/Keys-For-Sketch
+
 ## Material
 The Material Theme Editor helps you make your own branded symbol library and apply global style changes to color, shape, and typography.
 <br>https://material.io/tools/theme-editor/

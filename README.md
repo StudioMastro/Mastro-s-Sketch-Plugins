@@ -78,6 +78,12 @@ The Material Theme Editor helps you make your own branded symbol library and app
 Midnight theme for Sketch
 <br>https://midnightsketch.com/
 
+## Override it!
+Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features..
+<br>https://github.com/ahmedmigo/overrideit-sketchplugin
+
+![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png)
+
 ## Paddy
 Automated padding and spacing for your Sketch layers
 <br>https://github.com/DWilliames/paddy-sketch-plugin
@@ -109,16 +115,6 @@ A plugin that gets Emmet HTML abbreviations snippets to be expanded based on lay
 
 ## Sketch Icons
 A Sketch plugin that allows you to import a set of icons and automatically apply a color mask <br>https://github.com/AMoreaux/Sketch-Icons.git
-
-<!-- ## Bootstrap Helper
-A plugin to help working with bootstrap grids in Sketch
-<br>https://github.com/konki-vienna/sketch-bootstrap-helpers.git -->
-
-<!-- ## Sketch Isometric
-Generate Isometric views from Artboards and Rectangles in Sketch app.
-<br>https://github.com/sureskumar/sketch-isometric
-
-![Single Isometric example](http://www.sureskumar.com/sketch-isometric/github_imgs/sketch_isometric_sample_08.jpg) -->
 
 ## Sketch Mate
 These plugins will make you best friends with Sketch.
@@ -173,6 +169,10 @@ Generate a sheet of symbol instances from your current document or a library.
 ## Symbol Organizer
 Organize your symbols page, and layer list, alphabetically and into groupings determined by your symbol names <br>https://github.com/sonburn/symbol-organizer.git
 
+## Shared Style Finder
+Find instances of a shared layer or text style
+<br>https://github.com/sonburn/shared-style-finder.git
+
 ## Symbol Spacer
 Automatically resizes symbol to original size when switching from one spacing to another spacing symbol
 <br>https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git
@@ -202,24 +202,22 @@ A plugin for generating flow diagrams from Artboards in Sketch
 
 ![User Flows](https://assets.hongkiat.com/uploads/sketch-user-flows-plugin/02-user-flows-full-diagram-sketch.jpg)
 
-## Shared Style Finder
-Find instances of a shared layer or text style
-<br>https://github.com/sonburn/shared-style-finder.git
-
-
-## Kactus
+<!-- ## Kactus
 Kactus is a tool to bring proper version control (as in git) to designers right from Sketch
-<br>https://github.com/kactus-io/kactus.git
+<br>https://github.com/kactus-io/kactus.git -->
 
-## Sketch Iconfont
+<!-- ## Sketch Iconfont
 This plugin helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs
 <br>https://github.com/keremciu/sketch-iconfont.git
 
-![Google Sheet Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin/raw/master/images/logo.png)
+![Google Sheet Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin/raw/master/images/logo.png) -->
 
-## Override it!
-Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features..
-<br>https://github.com/ahmedmigo/overrideit-sketchplugin
+<!-- ## Bootstrap Helper
+A plugin to help working with bootstrap grids in Sketch
+<br>https://github.com/konki-vienna/sketch-bootstrap-helpers.git -->
 
-![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png)
+<!-- ## Sketch Isometric
+Generate Isometric views from Artboards and Rectangles in Sketch app.
+<br>https://github.com/sureskumar/sketch-isometric
 
+![Single Isometric example](http://www.sureskumar.com/sketch-isometric/github_imgs/sketch_isometric_sample_08.jpg) -->

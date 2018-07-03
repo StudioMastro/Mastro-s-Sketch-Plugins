@@ -10,31 +10,31 @@ Edit and collaborate on your content in Google Sheets, then sync in back to your
 A spotlight version for Sketch
 <br>http://sketchrunner.com/
 
-![Sketch Runner Background](https://cdn-images-1.medium.com/max/1600/1*9qRPYEuJQEBtx7-L2DcVQQ.png)
+<!-- ![Sketch Runner Background](https://cdn-images-1.medium.com/max/1600/1*9qRPYEuJQEBtx7-L2DcVQQ.png) -->
 
 ## Chart
 Chart is a Sketch plugin for creation the most popular charts by real or random data. Chart supports copy-paste from any kind of text editor
 <br>https://github.com/pavelkuligin/chart.git
 
-![Chart](https://raw.githubusercontent.com/pavelkuligin/chart/master/images/chart-2x.png)
+<!-- ![Chart](https://raw.githubusercontent.com/pavelkuligin/chart/master/images/chart-2x.png) -->
 
 ## Autolayout by Anima
 Auto-Layout is a plugin for Sketch that enables designers to design fully responsive artboards
 <br>https://github.com/AnimaApp/Auto-Layout.git
 
-![Autolayout](https://cdn-images-1.medium.com/max/1200/1*xiUOc19qVLhvgR5oW1MIRQ.png)
+<!-- ![Autolayout](https://cdn-images-1.medium.com/max/1200/1*xiUOc19qVLhvgR5oW1MIRQ.png) -->
 
 ## Launchpad by Anima
 Powerful plugin by Anima, that let you convert you Sketch file into an html static page, and mostly useful for its stacked folder and constrain pin options
 <br>http://www.animaapp.com/
 
-![Launch Pad](https://i.ytimg.com/vi/1gnxY6eC_78/maxresdefault.jpg)
+<!-- ![Launch Pad](https://i.ytimg.com/vi/1gnxY6eC_78/maxresdefault.jpg) -->
 
 ## Automate
 Make sketch worklflow with many automation
 <br>https://github.com/Ashung/Automate-Sketch.git
 
-![Automate](https://startae.com/assets/images/articles/2017-12-04/1-automate-f3427ce5.jpg)
+<!-- ![Automate](https://startae.com/assets/images/articles/2017-12-04/1-automate-f3427ce5.jpg) -->
 
 ## Font Buddy!
 Install missing fonts directly from Sketch.
@@ -48,7 +48,7 @@ A power plugin that let's share both Text & Styles from a library source, in jus
 Select text layers, layer groups or artboards to change the text
 <br>https://github.com/margusholland/Comma.git
 
-![Comma](https://camo.githubusercontent.com/67da0b3e26fd563f6c9548e5fb759b8a3771dc23/687474703a2f2f756f2e65652f636f6d6d612f636f6d6d612d76312e342e706e67)
+<!-- ![Comma](https://camo.githubusercontent.com/67da0b3e26fd563f6c9548e5fb759b8a3771dc23/687474703a2f2f756f2e65652f636f6d6d612f636f6d6d612d76312e342e706e67) -->
 
 ## Copy & Paste Guides
 A plugin to easily copy, paste and remove guides from your Sketch artboard(s).
@@ -82,7 +82,7 @@ Midnight theme for Sketch
 Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features..
 <br>https://github.com/ahmedmigo/overrideit-sketchplugin
 
-![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png)
+<!-- ![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png) -->
 
 ## Paddy
 Automated padding and spacing for your Sketch layers
@@ -92,7 +92,7 @@ Automated padding and spacing for your Sketch layers
 Make great typography with golden ratio
 <br>https://github.com/Volorf/Perfecter.git
 
-![Perfecter](https://startae.com/assets/images/articles/2017-12-04/5-perfecter-4ac97485.jpg)
+<!-- ![Perfecter](https://startae.com/assets/images/articles/2017-12-04/5-perfecter-4ac97485.jpg) -->
 
 ## Presto Selecto
 Quickly select all layers of a type, whose name matches or contains a given string.
@@ -200,7 +200,7 @@ Remove unused layer and text styles
 A plugin for generating flow diagrams from Artboards in Sketch
 <br>https://abynim.github.io/UserFlows/
 
-![User Flows](https://assets.hongkiat.com/uploads/sketch-user-flows-plugin/02-user-flows-full-diagram-sketch.jpg)
+<!-- ![User Flows](https://assets.hongkiat.com/uploads/sketch-user-flows-plugin/02-user-flows-full-diagram-sketch.jpg) -->
 
 <!-- ## Kactus
 Kactus is a tool to bring proper version control (as in git) to designers right from Sketch

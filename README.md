@@ -9,31 +9,26 @@ Edit and collaborate on your content in Google Sheets, then sync in back to your
 ## Sketch Runner
 A spotlight version for Sketch
 <br>http://sketchrunner.com/
-
 <!-- ![Sketch Runner Background](https://cdn-images-1.medium.com/max/1600/1*9qRPYEuJQEBtx7-L2DcVQQ.png) -->
 
 ## Chart
 Chart is a Sketch plugin for creation the most popular charts by real or random data. Chart supports copy-paste from any kind of text editor
 <br>https://github.com/pavelkuligin/chart.git
-
 <!-- ![Chart](https://raw.githubusercontent.com/pavelkuligin/chart/master/images/chart-2x.png) -->
 
 ## Autolayout by Anima
 Auto-Layout is a plugin for Sketch that enables designers to design fully responsive artboards
 <br>https://github.com/AnimaApp/Auto-Layout.git
-
 <!-- ![Autolayout](https://cdn-images-1.medium.com/max/1200/1*xiUOc19qVLhvgR5oW1MIRQ.png) -->
 
 ## Launchpad by Anima
 Powerful plugin by Anima, that let you convert you Sketch file into an html static page, and mostly useful for its stacked folder and constrain pin options
 <br>http://www.animaapp.com/
-
 <!-- ![Launch Pad](https://i.ytimg.com/vi/1gnxY6eC_78/maxresdefault.jpg) -->
 
 ## Automate
 Make sketch worklflow with many automation
 <br>https://github.com/Ashung/Automate-Sketch.git
-
 <!-- ![Automate](https://startae.com/assets/images/articles/2017-12-04/1-automate-f3427ce5.jpg) -->
 
 ## Font Buddy!
@@ -47,14 +42,17 @@ A power plugin that let's share both Text & Styles from a library source, in jus
 ## Comma
 Select text layers, layer groups or artboards to change the text
 <br>https://github.com/margusholland/Comma.git
-
 <!-- ![Comma](https://camo.githubusercontent.com/67da0b3e26fd563f6c9548e5fb759b8a3771dc23/687474703a2f2f756f2e65652f636f6d6d612f636f6d6d612d76312e342e706e67) -->
 
 ## Copy & Paste Guides
 A plugin to easily copy, paste and remove guides from your Sketch artboard(s).
 <br>https://github.com/pixelpillow/copy-paste-guides.git
 
-## Fast text transfer
+## Icon Jar
+Store all your icons in one place, just a click away.
+<br>https://geticonjar.com/
+
+## Fast Text Transfer
 Fast Text Transfer is a Sketch plugin that adds lightning fast copying, pasting and swaping text.
 <br>https://github.com/jbentzen/sketch-fast-text-transfer
 
@@ -78,10 +76,13 @@ The Material Theme Editor helps you make your own branded symbol library and app
 Midnight theme for Sketch
 <br>https://midnightsketch.com/
 
+## Overflow
+Turn your designs into playable user flow diagrams that tell a story.
+<br>https://overflow.io/
+
 ## Override it!
 Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features..
 <br>https://github.com/ahmedmigo/overrideit-sketchplugin
-
 <!-- ![Override it](https://raw.githubusercontent.com/ahmedmigo/overrideit-sketchplugin/master/imgs/overrides.png) -->
 
 ## Paddy
@@ -91,7 +92,6 @@ Automated padding and spacing for your Sketch layers
 ## Perfecter
 Make great typography with golden ratio
 <br>https://github.com/Volorf/Perfecter.git
-
 <!-- ![Perfecter](https://startae.com/assets/images/articles/2017-12-04/5-perfecter-4ac97485.jpg) -->
 
 ## Presto Selecto
@@ -151,6 +151,10 @@ With Style Master, you can rename all or some of your shared styles at once
 Styles Generator helps designers who want to generate Shared Styles for a Design System in a matter of seconds.
 <br>https://github.com/lucaorio/sketch-styles-generator
 
+## SVGO-Compressor
+A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
+<br>https://github.com/BohemianCoding/svgo-compressor
+
 ## Swatches
 A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 <br>https://github.com/Ashung/Sketch_Swatches
@@ -199,25 +203,22 @@ Remove unused layer and text styles
 ## User Flows
 A plugin for generating flow diagrams from Artboards in Sketch
 <br>https://abynim.github.io/UserFlows/
-
 <!-- ![User Flows](https://assets.hongkiat.com/uploads/sketch-user-flows-plugin/02-user-flows-full-diagram-sketch.jpg) -->
 
-<!-- ## Kactus
+## Kactus
 Kactus is a tool to bring proper version control (as in git) to designers right from Sketch
-<br>https://github.com/kactus-io/kactus.git -->
+<br>https://github.com/kactus-io/kactus.git
 
-<!-- ## Sketch Iconfont
+## Sketch Iconfont
 This plugin helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs
 <br>https://github.com/keremciu/sketch-iconfont.git
+<!-- ![Google Sheet Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin/raw/master/images/logo.png) -->
 
-![Google Sheet Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin/raw/master/images/logo.png) -->
-
-<!-- ## Bootstrap Helper
+## Bootstrap Helper
 A plugin to help working with bootstrap grids in Sketch
-<br>https://github.com/konki-vienna/sketch-bootstrap-helpers.git -->
+<br>https://github.com/konki-vienna/sketch-bootstrap-helpers.git
 
-<!-- ## Sketch Isometric
+## Sketch Isometric
 Generate Isometric views from Artboards and Rectangles in Sketch app.
 <br>https://github.com/sureskumar/sketch-isometric
-
-![Single Isometric example](http://www.sureskumar.com/sketch-isometric/github_imgs/sketch_isometric_sample_08.jpg) -->
+<!-- ![Single Isometric example](http://www.sureskumar.com/sketch-isometric/github_imgs/sketch_isometric_sample_08.jpg) -->

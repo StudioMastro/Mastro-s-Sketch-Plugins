@@ -226,3 +226,7 @@ A plugin to help working with bootstrap grids in Sketch
 Generate Isometric views from Artboards and Rectangles in Sketch app.
 <br>https://github.com/sureskumar/sketch-isometric
 <!-- ![Single Isometric example](http://www.sureskumar.com/sketch-isometric/github_imgs/sketch_isometric_sample_08.jpg) -->
+
+## Sketch App Typograph
+Removes hanging conjunctions. Connects the number and the unit with non-breaking space. Puts right quotes “outside and ‘inside’ proposals” instead programmers “ " ”. Removes double-spaces, double-enters, double-dots and other trash, but leaves ellipsis. Makes ©, ®, ™ from (c), -- turns to — , -> transforms to →, makes ≠ from !=, mm3 turns to mm³. Divides 5-digit numbers or more, like 15 800. Removes spaces at $50 and puts non-breaking spaces at 100 % or 50 €. And a little more.
+<br>https://tpgrf.ru/

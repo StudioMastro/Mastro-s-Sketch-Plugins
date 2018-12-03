@@ -68,7 +68,6 @@ Select Similar Layers is a Sketch plugin that selects other layers with the same
 A Sketch-app plugin that does a ”boolean” separate operation on two selected shapes. Like divide in Pathfinder in Adobe Illustrator.
 <br>https://github.com/PEZ/SketchSeparateShapes
 <!-- ![Separate Shape](https://github.com/sergeishere/HandyMenu-SketchPlugin/raw/master/images/cover_image.png) -->
-) -->
 
 ## Shared Style Finder
 Find instances of a shared layer or text style
@@ -94,7 +93,6 @@ With Style Master, you can rename all or some of your shared styles at once
 Swap styles from document to library.
 <br>https://github.com/sonburn/style-swapper
 <!-- [Style Swapper](https://raw.githubusercontent.com/sonburn/style-swapper/master/images/screenshot.png) -->
-) -->
 
 ## SVGO-Compressor
 A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
